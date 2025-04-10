@@ -76,7 +76,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 ### Scienza e Tecnologia dei Materiali (9 CFU)
 
 <p align="center">
-  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/SCIENZA_TECNOLOGIA_MATERIALI.pdf?raw=true" download>
+  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/SCIENZA_E_TECNOLOGIA_DEI_MATERIALI.pdf?raw=true" download>
     <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
