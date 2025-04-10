@@ -18,74 +18,94 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 ## Appunti
 
+
 ### Applicazioni Industriali Elettriche (12 CFU)
 
-Prossimamente.
+🚧 **Prossimamente.**
+
+---
 
 ### Elementi Costruttivi di Macchine (6 CFU)
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/ELEMENTI_COSTRUTTIVI_DELLE_MACCHINE.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
+
+---
 
 ### Fisica I (12 CFU)
 
 <p align="center">
-  <a href="?raw=true" download>
-    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/FISICA_I.pdf?raw=true" download>
+    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
-</p> 
+</p>
+
+---
 
 ### Fluidodinamica (9 CFU)
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/FLUIDODINAMICA.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
-</p> 
+</p>
+
+---
 
 ### Meccanica Applicata alle Macchine (9 CFU)
 
-Prossimamente.
+🚧 **Prossimamente.**
+
+---
 
 ### Meccanica Razionale (6 CFU)
 
-Prossimamente.
+🚧 **Prossimamente.**
+
+---
 
 ### Scienza delle Costruzioni (9 CFU)
 
-Prossimamente.
+🚧 **Prossimamente.**
+
+---
 
 ### Scienza e Tecnologia dei Materiali (9 CFU)
 
 <p align="center">
-  <a href="?raw=true" download>
-    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/SCIENZA_TECNOLOGIA_MATERIALI.pdf?raw=true" download>
+    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
-</p> 
+</p>
+
+---
 
 ### Strumenti Matematici di Base per Ingegneria Meccanica
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/Specchietto_Analisi.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
 
+---
 
 ### Tecnologia Meccanica (9 CFU)
 
 <p align="center">
-  <a href="?raw=true" download>
-    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/TECNOLOGIA_MECCANICA.pdf?raw=true" download>
+    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
-</p> 
+</p>
+
+---
 
 ### Termodinamica e Fluidodinamica Applicate alle Macchine (9 CFU)
 
-Prossimamente.
+🚧 **Prossimamente.**
 
 ## Competenze Sviluppate
 
