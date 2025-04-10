@@ -24,43 +24,68 @@ Prossimamente.
 
 ### Elementi Costruttivi di Macchine (6 CFU)
 
-[pdf](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/ELEMENTI_COSTRUTTIVI_DELLE_MACCHINE.pdf?raw=true)
+<p align="center">
+  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/ELEMENTI_COSTRUTTIVI_DELLE_MACCHINE.pdf?raw=true" download>
+    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</p>
 
 ### Fisica I (12 CFU)
 
-[pdf]() 
+<p align="center">
+  <a href="?raw=true" download>
+    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</p> 
 
 ### Fluidodinamica (9 CFU)
 
-[pdf](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/FLUIDODINAMICA.pdf?raw=true) 
+<p align="center">
+  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/FLUIDODINAMICA.pdf?raw=true" download>
+    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</p> 
 
 ### Meccanica Applicata alle Macchine (9 CFU)
 
-
+Prossimamente.
 
 ### Meccanica Razionale (6 CFU)
 
-
+Prossimamente.
 
 ### Scienza delle Costruzioni (9 CFU)
 
-
+Prossimamente.
 
 ### Scienza e Tecnologia dei Materiali (9 CFU)
 
-[pdf]()  
+<p align="center">
+  <a href="?raw=true" download>
+    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</p> 
 
 ### Strumenti Matematici di Base per Ingegneria Meccanica
 
-[pdf](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/Specchietto_Analisi.pdf?raw=true) : Questo è uno specchietto che riassume i concetti di base di analisi e può essere utile per il consulto.
+<p align="center">
+  <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/Specchietto_Analisi.pdf?raw=true" download>
+    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</p>
+
 
 ### Tecnologia Meccanica (9 CFU)
 
-[pdf]() 
+<p align="center">
+  <a href="?raw=true" download>
+    <img src="https://img.shields.io/badge/Download-PDF-black?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF">
+  </a>
+</p> 
 
 ### Termodinamica e Fluidodinamica Applicate alle Macchine (9 CFU)
 
-
+Prossimamente.
 
 ## Competenze Sviluppate
 
