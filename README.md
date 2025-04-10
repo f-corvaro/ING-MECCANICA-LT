@@ -10,6 +10,58 @@
     <a href="https://github.com/f-corvaro/ING-MECCANICA-LT"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/f-corvaro/ING-MECCANICA-LT?color=white" /></a>
 </p>
 
+## Introduzione
+
+In questa repository troverai i miei appunti in formato PDF, realizzati durante il percorso di studi in Ingegneria Meccanica presso l'Università degli Studi Roma Tre, che sto per ultimare. Gli appunti degli esami che devo ancora sostenere verranno pubblicati in seguito.
+
+`Questi appunti non sostituiscono le lezioni frontali e lo studio individuale, ma costituiscono uno strumento utile.`
+
+## Appunti
+
+### Applicazioni Industriali Elettriche (12 CFU)
+
+
+
+### Elementi Costruttivi di Macchine (6 CFU)
+
+[pdf]() 
+
+### Fisica I (12 CFU)
+
+[pdf]() 
+
+### Fluidodinamica (9 CFU)
+
+[pdf]() 
+
+### Meccanica Applicata alle Macchine (9 CFU)
+
+
+
+### Meccanica Razionale (6 CFU)
+
+
+
+### Scienza delle Costruzioni (9 CFU)
+
+
+
+### Scienza e Tecnologia dei Materiali (9 CFU)
+
+[pdf]()  
+
+### Strumenti Matematici di Base per Ingegneria Meccanica
+
+[pdf]() : Questo è uno specchietto che riassume i concetti di base di analisi e può essere utile per il consulto.
+
+### Tecnologia Meccanica (9 CFU)
+
+[pdf]() 
+
+### Termodinamica e Fluidodinamica Applicate alle Macchine (9 CFU)
+
+
+
 ## Competenze Sviluppate
 
 <p align="center">
@@ -39,3 +91,7 @@ Se i miei appunti ti sono stati utili e vuoi offrirmi un caffè per ringraziarmi
 <a href="https://42born2code.slack.com/team/U050L8XAFLK"><kbd>Slack</kbd><alt=""></a>
 
 <hr/>
+
+## Licenza
+
+Questo progetto è distribuito sotto la licenza MIT. Consulta il file [LICENSE](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/LICENSE) per maggiori dettagli.
