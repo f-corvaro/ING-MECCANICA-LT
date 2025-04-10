@@ -20,11 +20,11 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 ### Applicazioni Industriali Elettriche (12 CFU)
 
-
+Prossimamente.
 
 ### Elementi Costruttivi di Macchine (6 CFU)
 
-[pdf]() 
+[pdf](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/ELEMENTI_COSTRUTTIVI_DELLE_MACCHINE.pdf?raw=true)
 
 ### Fisica I (12 CFU)
 
@@ -32,7 +32,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 ### Fluidodinamica (9 CFU)
 
-[pdf]() 
+[pdf](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/FLUIDODINAMICA.pdf?raw=true) 
 
 ### Meccanica Applicata alle Macchine (9 CFU)
 
@@ -52,7 +52,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 ### Strumenti Matematici di Base per Ingegneria Meccanica
 
-[pdf]() : Questo è uno specchietto che riassume i concetti di base di analisi e può essere utile per il consulto.
+[pdf](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/Specchietto_Analisi.pdf?raw=true) : Questo è uno specchietto che riassume i concetti di base di analisi e può essere utile per il consulto.
 
 ### Tecnologia Meccanica (9 CFU)
 
