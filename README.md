@@ -29,7 +29,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/ELEMENTI_COSTRUTTIVI_DELLE_MACCHINE.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-darkred?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
 
@@ -39,7 +39,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/FISICA_I.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-darkred?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
 
@@ -49,7 +49,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/FLUIDODINAMICA.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-darkred?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
 
@@ -77,7 +77,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/SCIENZA_E_TECNOLOGIA_DEI_MATERIALI.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-darkred?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
 
@@ -87,7 +87,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/Specchietto_Analisi.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-darkred?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
 
@@ -97,7 +97,7 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 <p align="center">
   <a href="https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/appunti/TECNOLOGIA_MECCANICA.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Scarica-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
+    <img src="https://img.shields.io/badge/Scarica-PDF-darkred?style=for-the-badge&logo=adobeacrobatreader" alt="Scarica PDF">
   </a>
 </p>
 
