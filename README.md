@@ -107,6 +107,8 @@ In questa repository troverai i miei appunti in formato PDF, realizzati durante 
 
 🚧 **Prossimamente.**
 
+</br>
+
 ## Competenze Sviluppate
 
 <p align="center">
@@ -136,7 +138,3 @@ Se i miei appunti ti sono stati utili e vuoi offrirmi un caffè per ringraziarmi
 <a href="https://42born2code.slack.com/team/U050L8XAFLK"><kbd>Slack</kbd><alt=""></a>
 
 <hr/>
-
-## Licenza
-
-Questo progetto è distribuito sotto la licenza MIT. Consulta il file [LICENSE](https://github.com/f-corvaro/ING-MECCANICA-LT/blob/main/LICENSE) per maggiori dettagli.
